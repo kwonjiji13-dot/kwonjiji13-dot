@@ -1,5 +1,4 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{kwonjiji13-dot}/count.svg">
-</div>
+## 👀 Visitor Count
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=kwonjiji13-dot.kwonjiji13-dot)
+
 <img src="https://github.com/kwonjiji13-dot/kwonjiji13-dot/blob/main/images.jpeg">
