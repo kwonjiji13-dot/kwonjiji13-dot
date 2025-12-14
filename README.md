@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=6000&pause=1500&lines=Hi+Everyone!+👋;+I'm+Felix+Contreras!🔥;" />
 </h1>
 
-### A 3rd-year Computer Science student that is eager to learn about programming and other stuff related to our course.
+### I'm a 3rd-year Computer Science student that is eager to learn about programming and other stuff related to our course.
 
 - 🌱 I’m currently learning **[GitHub](https://docs.github.com/)**
 - 💬 Ask me about **Mathematics** or anything **[here](https://github.com/kwonjiji13-dot/kwonjiji13-dot/issues)**
